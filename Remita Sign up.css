@@ -1,0 +1,92 @@
+body{
+    display: flex;
+    min-height: 100vh;
+    margin: 0;
+    background-color: rgb(203, 205, 207);
+}
+
+.container{
+    background-color:#ff4500;
+    width: 100%;
+    max-width: 100%;
+    height: 40px;
+}
+
+.header{
+    background-color: white;
+    border-bottom: 1px white;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 30px;
+}
+
+form{
+    padding: 30px 40px;
+   
+}
+
+.form-control{
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+ label{
+    display: inline;
+    margin-bottom: 5px;
+    border: 4px black;
+    visibility: visible;
+    width: 35%;
+}
+
+ input{
+    border: 3px rgb(12, 12, 12);
+    border-radius: 20px;
+    display: inline;
+    font-size: 15px;
+    padding: 10px;
+    width: 25%;
+    background-color:white;
+}
+
+button{
+    background-color: lightgreen;
+    display: block;
+    font-weight: bold;
+    font-size: 11px;
+    padding: 5px;
+    width: 110px;
+    border-radius: 15px;
+    margin-top: 4%;
+    margin-left: 45%;
+    border: none;
+    height: 40px;
+    justify-content: center;
+}
+
+.parent{
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 2rem 2rem;
+}
+
+.child{
+    display: inline-block;
+    border: 1px solid red;
+    padding: 1rem 1rem;
+}
+
+
+
+

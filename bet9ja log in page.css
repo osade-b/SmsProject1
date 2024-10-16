@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(43, 42, 56);
+}
+
+.logo{
+    background-color: black;
+    height: 30px;
+    width: 100%;
+}
+
+.logo1{
+    display: inline;
+    margin-left: 45%;
+}
+
+.Log{
+    color: rgb(55, 226, 55);
+    font-size: largeR;
+    margin-left: 30PX;
+    float: left;
+}
+
+.reg{
+    float: right;
+    color: rgb(231, 231, 4);
+    margin-right: 30px;
+    margin-top: 25px;
+}
+
+.un{
+    height: 40px;
+    width: 90%;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+}
+
+.form{
+    margin-top: 50px;
+    width: 100%;
+}
+
+.ul{
+    height: 40px;
+    width: 90%;
+    margin-top: 13px;
+    margin-left: 75px;
+    background-color: black;
+    color: white;
+   visibility: visible;
+}
+
+.sub{
+    height: 40px;
+    width: 90%;
+    margin-top: 13px;
+    background-color: green;
+    margin-left: 75px;
+    color: white;
+}
+
+.fr{
+    text-align: center;
+    color: white;
+}
+
+.foot{
+    background-color: lightgrey;
+}
+
+.seci{
+    display: inline;
+    margin-left: 47.5%;
+    margin-top: 15px;
+}
+
+.rep{
+    text-align: center;
+    color: black;
+}
+
+.hr{
+    color: black;
+    border: 25px;
+}
