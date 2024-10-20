@@ -1,0 +1,210 @@
+.header{
+    background-color: lightgray;
+    width: 100%;
+    height: 40px;
+    margin-top: -8px;
+    position: sticky;
+    top: 0%;
+}
+
+.logo1{
+    margin-left: 8px;
+    margin-top: 20px;
+}
+
+.but2{
+    height: 30px;
+    float: right;
+    margin-right: 70px;
+    margin-top: -67.5px;
+}
+
+.svg1{
+height: 30px;
+float: right;
+margin-right: 25px;
+margin-top: -67.5px;
+}
+
+.nav{
+    background-color: gray;
+    height: 1100px;
+    width: 25%;
+    position: absolute;
+}
+
+.navbar{
+    background-color: lightgrey;
+  width: 40px;
+  height: 25px;
+  margin-left: 300px;
+  margin-top: 25px;
+}
+
+.svg2{
+    width: 20px;
+    margin-left: 10px;
+    margin-top: 3.25px;
+}
+
+.topnav {
+    overflow: hidden;
+    margin-top: 15px;
+    margin-right:9%;
+  }
+  
+ 
+  
+
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    border: none;
+    font-size: 17px;
+  }
+  
+.sbtn{
+    background-color: blue;
+    height: 35px;
+    margin-top: 5px;
+    width: 60px;
+    border: none;
+    float: right;
+   
+}
+
+.inpt{
+   margin-right: 150px;
+
+}
+
+.home{
+    height: 35px;
+    background-color: darkgreen;
+    margin-top: 15px;
+}
+
+.hsvg{
+    height: 25px;
+    margin-left: 20px;
+    margin-top: 4.5px;
+    color: white;
+}
+
+.chick{
+    margin-left: 75px;
+    margin-top: -25px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.dashboard{
+    margin-left: 105%;
+    margin-top: -1050px;
+    background-color: white;
+    width: 75%;
+}
+
+.facility{
+    width: 75%;
+    background-color: white;
+    height: 40px;
+}
+
+.fac{
+    margin-left: 45px;
+    margin-top: -22px;
+    
+}
+
+.msvg{
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 4.5px;
+}
+
+.main{
+    width: 396%;
+    height: 1050px;
+    background-color: lightgray;
+    margin-left: -19px;
+    position: absolute;
+    
+}
+
+.cand{
+    margin-left: 40px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.hello{
+    width: 470px;
+    height: 80px;
+    margin-left: 40px;
+    background-color: lightskyblue;
+}
+    
+.msg{
+    height: 35px;
+    margin-top: 21px;
+    margin-left: 10px;
+}
+
+.back1{
+    margin-left: 55px;
+    margin-top: -38px;
+}
+
+.hello1{
+    background-color: lightseagreen;
+    width: 470px;
+    height: 80px;
+    margin-left: 37.5%;
+    margin-top: -80px;
+}
+
+.check{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.exam{
+    width: 32.5%;
+    height: 35px;
+}
+
+.col1{
+    width: 270px;
+    margin-left: 40px;
+    background-color: orangered;
+    margin-top: 45px;
+    height: 210px;
+}
+
+.prof{
+    height: 175px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.ile1{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    margin-top: -9px;
+    margin-left: 90px;
+}
+
+.row1{
+    margin-left: 25%;
+    margin-top: -51.5%;
+}
+
+.row2{
+    margin-left: 35%;
+    margin-top: -69%;
+
+}
