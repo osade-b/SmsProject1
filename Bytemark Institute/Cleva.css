@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+
+.header{
+    width: 100%;
+    height: 90px;
+    outline: 3px solid white;
+    margin-top: 30px;
+}
+
+.img1{
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    display: inline;
+}
+
+ul{
+    margin-top: -60px;
+}
+
+li{
+    display: inline;
+    margin-left: 90px;
+    color: white;
+    position: relative;
+}
+
+li:hover{
+    background-color: gold;
+    color: black;
+    padding: 15px;
+   
+}
+
+.log{
+    background-color: gold;
+    color: white;
+    height: 65px;
+    width: 105px;
+    float: right;
+    margin-right: 150px;
+    margin-top: -55px;
+}
+
+.log1{
+    background-color: gold;
+    color: white;
+    height: 65px;
+    width: 105px;
+    float: right;
+    margin-right: -225px;
+    margin-top: -55px;
+}
+
+.log:hover{
+    background-color: white;
+    color: black;
+}
+
+.log1:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
